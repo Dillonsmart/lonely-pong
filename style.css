@@ -1,11 +1,21 @@
 html, body{
+    font-family: arial;
     text-align: center;
 }
 
 h1{
-    font-family: arial;
     font-size: 30px;
     color: black;
+    margin-bottom: 10px;
+}
+
+p{
+    margin: 5px 0 10px 0;
+}
+
+p a{
+    color: #3b76b5;
+    text-decoration: none;
 }
 
 #gameScreen {
